@@ -1,4 +1,4 @@
-###`A webapp to create AI generated art`
+### `A webapp to create AI generated art`
 
 In the project directory, you can run:
 
